@@ -32,28 +32,6 @@ Anomaly detection is critical for industrial monitoring, reducing unplanned down
 
 
 
-## Tools & Technologies
-
-- **Python**  
-
-- **Pandas, NumPy** for data manipulation  
-
-\- \*\*Matplotlib, Seaborn\*\* for visualisation  
-
-\- \*\*Scikit-learn\*\* for machine learning  
-
-\- \*\*Jupyter Notebook\*\* for analysis  
-
-
-
-
-
-
-
----
-
-
-
 ## Key Steps Performed
 
 
